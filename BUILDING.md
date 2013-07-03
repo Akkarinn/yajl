@@ -1,4 +1,4 @@
-YAJL build system is basaed on [CMake](http://www.cmake.org).
+YAJL build system is based on [CMake](http://www.cmake.org).
 
 1. Chose and create a nice directory to store the intermediate build files.
 2. Execute `cmake -G"Unix Makefiles" -D CMAKE_INSTALL_PREFIX=./install -D GENERATE_DOCUMENTATION=ON path/to/yajl/root/dir`;
